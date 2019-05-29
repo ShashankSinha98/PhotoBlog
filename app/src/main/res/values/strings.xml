@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="need_a_new_account">Need a new Account?</string>
+    <string name="login_to_account">Login to Account</string>
+    <string name="your_email">Your Email...</string>
+    <string name="password">Password...</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create new Account</string>
+    <string name="reg_btn_texts">Create New Account</string>
+    <string name="reg_login_text">Alreay have an Account?</string>
+    <string name="reg_confirm_pass">Confirm Password...</string>
+    <string name="reg_email_text">Your Email...</string>
+    <string name="setup_name_hint">Your Name...</string>
+    <string name="setup_btn">Save Account Settings</string>
+    <string name="add_desc_new_post">Add Description...</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">Notification</string>
+    <string name="bottom_account_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_comments_here_text">Your Comments Here...</string>
+</resources>
